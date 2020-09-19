@@ -1,0 +1,5 @@
+.vscode
+get-pip.py
+**/.vscode
+config.py
+**/__pycache__/
